@@ -1,8 +1,12 @@
 # Krabbot
 
+[delayed this untill i create a chat server to test somethings]
+
 What i need to learn before do it properly
 - [ ] manage websockets in Rust
-- [ ] create a new application in Discord to my bot use
+  - [ ] do http requests in Rust
+  - [ ] get an auth token for Krabbot
+- [x] create a new application in Discord to my bot use
 - [ ] try to do simple requests to Discord API
 - [ ] make a connection alive to see new messages in chat
 - [ ] try to implement a game between two players in discord
